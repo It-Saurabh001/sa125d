@@ -84,7 +84,8 @@ ul li a:hover{
     margin-left: 450px;
     margin-top: 15px;
     width: 335px;
-    
+    display:flex;
+    align-items:center;
 }
 .srch{
     border: 1px solid #ff7200;
